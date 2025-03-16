@@ -218,13 +218,13 @@ autoclean = []
 
 # Images
 
-START_IMG_URL = getenv("START_IMG_URL", "https://envs.sh/PQl.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.fm/u/zzvf7tb32n")
 
 PING_IMG_URL = getenv(
 
     "PING_IMG_URL",
 
-    "https://envs.sh/PQl.jpg",
+    "https://files.fm/u/zzvf7tb32n",
 
 )
 
